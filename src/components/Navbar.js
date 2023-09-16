@@ -10,7 +10,7 @@ const Navbar = () => {
       <nav className="navbar navbar-expand-lg navbar-light ">
         <Link className="navbar-brand text-center d-flex flex-column">
         <i className="fa fa-shopping-basket" aria-hidden="true"></i>
-         <span> Baskyt</span>
+         <span> NameHere</span>
         </Link>
         <div className="sideBarToggle ml-4">
          <i className="fa-solid fa-bars sidebarToggleBtn" onClick={handleTogge}></i>
